@@ -4,7 +4,7 @@ Getting and cleaning data course project
 ##Instructions on how to run analysis on Human Activity recognition dataset.
 
 ###Dataset
-(Human Activity Recognition Using Smartphones) [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+[Human Activity Recognition Using Smartphones (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)]
 
 ###Files
 CodeBook.md is a code book that describes the variables, data, transformations, etc to clean up the data

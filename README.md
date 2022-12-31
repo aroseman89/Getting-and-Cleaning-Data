@@ -8,7 +8,7 @@ Getting and cleaning data course project
 [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Files
-CodeBook.md is a code book that describes the variables, data, transformations, etc to clean up the data
+codebook.md is a code book that describes the variables, data, transformations, etc to clean up the data
 
 run_analysis.R performs the data preparation and the 5 steps required by the course project’s definition:
 Merges the training and the test sets to create one data set.
